@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello,
+I am Galang, an information technology undergraduate student. I am interested in a few subjects such as web development and data science. Both are subjects that I currently learning. Other than that, I also like to talk about sports, history, and movies.
 
+Nice to meet you
 <!--
 **galang-nur/galang-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
