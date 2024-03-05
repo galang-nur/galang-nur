@@ -1,5 +1,5 @@
 # Hello,
-Galang is a computer science undergraduate student. Intrigued in web development and data science. Both are subjects that he is currently focused on. Apart from that, he likes to talk about software engineering in general, sports, history, and movies.
+Galang is a vivid learner and aspiring software engineer focused on web development and data science. He likes to talk about software engineering in general, sports, history, and movies.
 <!--
 **galang-nur/galang-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
