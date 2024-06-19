@@ -1,5 +1,5 @@
 # Hello,
-Galang is a vivid learner and aspiring software engineer focused on web development and data science. 
+A learner in web development and data science. 
 <!--
 **galang-nur/galang-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
